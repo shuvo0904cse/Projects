@@ -1,10 +1,10 @@
 ## Laravel
-#### ** Network System Portal - http://thinkwindowtreatments.com/
+#### ** Network System Portal
 #### ** School Management System
 #### ** CRM System
-#### ** Airport Roster and Training Managemnt System - http://demo.lumexit.com/
-#### ** Multi Tenant Journal Portal - https://msis-press.com/
-#### ** Multi Tenant Tools and Entry System
+#### ** Airport Roster and Training Managemnt System
+#### ** Journal Portal - https://msis-press.com/
+#### ** Multi Tenant System
 
 
 ## Asp.net Mvc 5
